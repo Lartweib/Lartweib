@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lartweib)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lartweib)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">Connect with me:</h3>
