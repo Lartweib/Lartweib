@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lartweib&theme=dark&show_icons=true" alt="shwetangStats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabobike&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
