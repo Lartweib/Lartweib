@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico.</h1>
-<h3 align="center">A passionate back-end developer student from Argentina.</h3>
+<h3 align="center">A passionate back-end developer student from Argentina living in Spain, Barcelona.</h3>
 <br />
 <br />
 <p align="center">
