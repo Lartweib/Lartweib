@@ -28,29 +28,35 @@
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
 <br>
-<div align="center">
-  
+<div align="center">  
   <code><img title="Problem solving" height="25" src="images/problemSolving.png"></code>
+</div>
   <br>
+<div align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+</div>
   <br>
+<div align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
+</div>  
   <br>
+<div align="center">
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Springboot" height="25" src="images/spring.svg"></code>
+</div>  
   <br>
+<div align="center">  
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-
 </div>
 <hr>
 
