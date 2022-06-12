@@ -20,7 +20,7 @@
   <br>
 
   <br>
-<p align="center"></p>
+<p align="center">
   📫 How to reach me: <a href="mailto: a.federicodaniel@gmail.com">a.federicodaniel@gmail.com</a>
 </p>
 
