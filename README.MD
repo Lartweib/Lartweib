@@ -9,23 +9,29 @@
     <a href="https://linkedin.com/in/federico-daniel-ara" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
       <code>
     <p>Federico Ara</p>
-
 </h5>
+
 <br>
+
 <p align="center">
   Hi, I'm Federico Ara, FullStack developer Junior
 </p>
-  <br>
 
-  <br>
+<br>
+
+<br>
+
 <p align="center">
   📫 How to reach me: <a href="mailto: a.federicodaniel@gmail.com">a.federicodaniel@gmail.com</a>
 </p>
 
 <hr>
+
+
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
 <br>
+
 <div align="center">  
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
@@ -44,10 +50,15 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Problem solving" height="25" src="images/problemSolving.png"></code>
 </div>
+
 <hr>
 
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
+
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -67,10 +78,14 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=lartweib&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+
 <hr>
 
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
 <br>
+
 <div width="100%" align="center">
 
   <a align="center" href="https://github.com/Lartweib/Bootcamp-Python-MachineLearning" title="Bootcamp-Python-MachineLearning"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Bootcamp-Python-MachineLearning&theme=react&border_color=61dafb&border_radius=10"></a>
