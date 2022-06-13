@@ -17,14 +17,11 @@
 
 <br>
 
-<br>
-
 <p align="center">
   📫 How to reach me: <a href="mailto: a.federicodaniel@gmail.com">a.federicodaniel@gmail.com</a>
 </p>
 
 <hr>
-
 
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
@@ -51,11 +48,9 @@
 
 <hr>
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
-
 
 <p align=center>
   <div align=center>
@@ -86,12 +81,12 @@
 
 <div width="100%" align="center">
 
-  <a align="center" href="https://github.com/Lartweib/Bootcamp-Python-MachineLearning" title="Bootcamp-Python-MachineLearning"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Bootcamp-Python-MachineLearning&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lartweib/Bootcamp-Python-MachineLearning" title="Bootcamp-Python-MachineLearning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Bootcamp-Python-MachineLearning&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Lartweib/Bootcamp-Java-Fullstack" title="Bootcamp-Java-Fullstack"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Bootcamp-Java-Fullstack&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lartweib/Bootcamp-Java-Fullstack" title="Bootcamp-Java-Fullstack"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Bootcamp-Java-Fullstack&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Lartweib/CoderHouse-Javascript-ProyectoFinal" title="CoderHouse-Javascript"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=CoderHouse-Javascript-ProyectoFinal&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lartweib/CoderHouse-Javascript-ProyectoFinal" title="CoderHouse-Javascript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=CoderHouse-Javascript-ProyectoFinal&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Lartweib/Clean-Art" title="Clean-Art"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Clean-Art&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lartweib/Clean-Art" title="Clean-Art"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lartweib&repo=Clean-Art&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
