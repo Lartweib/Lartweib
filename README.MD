@@ -19,7 +19,6 @@
 
 <br>
 <hr>
-<br>
 
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
@@ -44,6 +43,7 @@
   <code><img title="Problem solving" height="30" src="images/problemSolving.png"></code>
 </div>
 
+<br>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
