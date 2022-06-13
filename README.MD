@@ -5,9 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://linkedin.com/in/federico-daniel-ara" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
-      <code>
+  <code><a href="https://linkedin.com/in/federico-daniel-ara" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
     <p>Federico Ara</p>
 </h5>
 
