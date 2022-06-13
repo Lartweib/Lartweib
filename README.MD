@@ -21,7 +21,9 @@
   📫 How to reach me: <a href="mailto: a.federicodaniel@gmail.com">a.federicodaniel@gmail.com</a>
 </p>
 
+<br>
 <hr>
+<br>
 
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
