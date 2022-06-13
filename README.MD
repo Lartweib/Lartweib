@@ -12,12 +12,6 @@
 
 <br>
 
-<p align="center">
-  📫 How to reach me: <a href="mailto: a.federicodaniel@gmail.com">a.federicodaniel@gmail.com</a>
-</p>
-
-<br>
-
 <h5 align="center">
   <code><a href="https://linkedin.com/in/federico-daniel-ara" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
     <p>Federico Ara</p>
