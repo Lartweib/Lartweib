@@ -28,6 +28,8 @@
   <code><img title="Python" height="30" src="images/python-original.svg"></code>
   <code><img title="Django" height="30" src="images/django.png"></code>
   <code><img title="Flask" height="30" src="images/flask.png"></code>
+  <code><img title="Kotlin" height="30" src="images/Kotlin_Icon.png"></code>
+  <code><img title="Android" height="30" src="images/android.svg"></code>
   <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
