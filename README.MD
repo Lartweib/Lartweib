@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Federico Ara, Python developer Junior
+  Hi, I'm Federico Ara, Python developer
 </p>
 
 <br>
