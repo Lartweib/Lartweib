@@ -1,14 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Federico....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Federico+and+i'm+Python+developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<br>
-
-<p align="center">
-  Hi, I'm Federico Ara, Python developer
-</p>
 
 <br>
 
