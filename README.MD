@@ -1,39 +1,86 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+There!%F0%9F%91%8B;I'm+Federico+and+i'm+Python+developer;Nice+to+meet+you!" alt="Typing SVG" /></a>
-</h1>
+# Federico Daniel Ara
 
-<br>
+Desarrollador **Python** con foco en automatización, datos y herramientas internas.  
+Trabajo en la intersección de **backend**, **dashboards** y **IA aplicada**, construyendo soluciones que optimizan soporte y QA en entornos de alta demanda.
 
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/federico-daniel-ara" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
-    <p>Federico Ara</p>
-</h5>
+- 🔭 Actualmente: optimizando flujos de auditoría en Retool con caché centralizado y explorando despliegue de LLMs locales.  
+- 📚 Proyecto personal: *Umbral*, thriller psicológico-tech publicado en Amazon KDP.  
+- 📍 Coruña · Inditex
 
-<br>
-<hr>
+---
 
-<h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
+## Stack principal
+`Python` · `FastAPI` · `Pandas` · `PostgreSQL` · `Docker` · `Retool` · `GitHub Actions`
 
-<br>
+---
 
-<div align="center">  
-  <code><img title="Python" height="30" src="images/python-original.svg"></code>
-  <code><img title="Django" height="30" src="images/django.png"></code>
-  <code><img title="Flask" height="30" src="images/flask.png"></code>
-  <code><img title="Kotlin" height="30" src="images/Kotlin_Icon.png"></code>
-  <code><img title="Android" height="30" src="images/android.svg"></code>
-  <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
-  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
-  <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="SASS" height="30" src="images/sass.svg"></code>
-  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
-  <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="30" src="images/json.svg"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>
-  <code><img title="Springboot" height="30" src="images/spring.svg"></code>
-  <code><img title="Git" height="30" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="30" src="images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
-  <code><img title="Problem solving" height="30" src="images/problemSolving.png"></code>
-</div>
+## Métricas
 
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lartweib&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true"
+    height="150" alt="stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lartweib&layout=compact&langs_count=8"
+    height="150" alt="top langs" />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=Lartweib&theme=default"
+    height="150" alt="streak" />
+</p>
+
+---
+
+## Proyectos destacados
+- 🛒 **Proyecto-Meli** – Scraping y análisis de Mercado Libre → Excel  
+  [github.com/Lartweib/Proyecto-Meli](https://github.com/Lartweib/Proyecto-Meli)
+
+- 🐍 **Bootcamp-Python-MachineLearning** – Notebooks y material de ML  
+  [github.com/Lartweib/Bootcamp-Python-MachineLearning](https://github.com/Lartweib/Bootcamp-Python-MachineLearning)
+
+- 🤖 **EANT-workshop2** – API de scraping de alquileres (JSON)  
+  [github.com/Lartweib/EANT-workshop2](https://github.com/Lartweib/EANT-workshop2)
+
+---
+
+## Contacto
+- LinkedIn: [federico-daniel-ara](https://www.linkedin.com/in/federico-daniel-ara)
+# Federico Daniel Ara
+
+Desarrollador **Python** con foco en automatización, datos y herramientas internas.  
+Trabajo en la intersección de **backend**, **dashboards** y **IA aplicada**, construyendo soluciones que optimizan soporte y QA en entornos de alta demanda.
+
+- 🔭 Actualmente: optimizando flujos de auditoría en Retool con caché centralizado y explorando despliegue de LLMs locales.  
+- 📚 Proyecto personal: *Umbral*, thriller psicológico-tech publicado en Amazon KDP.  
+- 📍 Coruña · Inditex
+
+---
+
+## Stack principal
+`Python` · `FastAPI` · `Pandas` · `PostgreSQL` · `Docker` · `Retool` · `GitHub Actions`
+
+---
+
+## Métricas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lartweib&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true"
+    height="150" alt="stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lartweib&layout=compact&langs_count=8"
+    height="150" alt="top langs" />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=Lartweib&theme=default"
+    height="150" alt="streak" />
+</p>
+
+---
+
+## Contacto
+- LinkedIn: [federico-daniel-ara](https://www.linkedin.com/in/federico-daniel-ara)
