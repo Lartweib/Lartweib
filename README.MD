@@ -3,8 +3,6 @@
 Desarrollador **Python** con foco en automatización, datos y herramientas internas.  
 Trabajo en la intersección de **backend**, **dashboards** y **IA aplicada**, construyendo soluciones que optimizan soporte y QA en entornos de alta demanda.
 
-- 🔭 Actualmente: optimizando flujos de auditoría en Retool con caché centralizado y explorando despliegue de LLMs locales.  
-- 📚 Proyecto personal: *Umbral*, thriller psicológico-tech publicado en Amazon KDP.  
 - 📍 Coruña · Inditex
 
 ---
