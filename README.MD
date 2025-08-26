@@ -3,8 +3,6 @@
 Desarrollador **Python** con foco en automatización, datos y herramientas internas.  
 Trabajo en la intersección de **backend**, **dashboards** y **IA aplicada**, construyendo soluciones que optimizan soporte y QA en entornos de alta demanda.
 
-- 📍 Coruña · Inditex
-
 ---
 
 ## Stack principal
