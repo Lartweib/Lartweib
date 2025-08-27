@@ -17,16 +17,26 @@ jobs:
           filename: github-metrics.svg
           template: classic
           config_timezone: Europe/Madrid
-
-          base: header, repositories
-          repositories_affiliations: owner, collaborator, organization_member
+        
+          # --- Base ---
+          base: header   # 👈 sacamos "repositories" que mete ruido
           repositories_private: yes
-
+        
+          # --- Plugins que sí aportan ---
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_categories: programming
           plugin_languages_colors: github
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half
+        
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+        
+          plugin_contributors: yes
+          plugin_contributors_base: commits
+          plugin_contributors_sections: commits
+          plugin_contributors_limit: 5
+        
+          plugin_traffic: yes
