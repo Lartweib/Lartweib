@@ -15,21 +15,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Lartweib
           filename: github-metrics.svg
-          template: classic-dark
+          template: classic              # <- 'classic-dark' NO existe
           config_timezone: Europe/Madrid
 
-          # --- Base (solo cabecera) ---
+          # Solo cabecera, sin 'repositories'
           base: header
           repositories_private: yes
 
-          # --- BLOQUE PRINCIPAL: estadísticas tipo card ---
+          # "Card" de estadísticas: commits, PRs, issues, reviews
           plugin_statistics: yes
-          plugin_statistics_days: 365           # ventana de análisis
+          plugin_statistics_days: 365
+          plugin_statistics_sections: base   # (totales + últimos 365 días)
           plugin_statistics_limit: 5
-          plugin_statistics_sections: base      # muestra: commits, PRs, issues, reviews
-          plugin_statistics_languages: no       # lenguajes van en su propio bloque
+          plugin_statistics_languages: no
 
-          # --- Lenguajes (compacto) ---
+          # Lenguajes (barra compacta)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
