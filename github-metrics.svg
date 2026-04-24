@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 38 users
+                            Followed by 39 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 4 repositories
+                            Contributed to 5 repositories
                         </div>
                     </section>
                 </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.66492113330014" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.66492113330014" y="0" width="96.37016107174549" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="443.0350822050456" y="0" width="9.863232046722873" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.8983142517685" y="0" width="3.559567542962156" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.45788179473067" y="0" width="1.7619693848825417" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.2198511796132" y="0" width="1.2174867737226371" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="459.4373379533359" y="0" width="0.3531239747879238" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.79046192812376" y="0" width="0.20953807187622492" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.71689701125996" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="340.71689701125996" y="0" width="94.7166564690135" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="435.4335534802735" y="0" width="10.531190181300529" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.964743661574" y="0" width="9.7073709455229" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.67211460709694" y="0" width="1.7317377814964359" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.40385238859335" y="0" width="1.1965973203718534" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="458.60044970896524" y="0" width="1.1936074416054578" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.79405715057067" y="0" width="0.20594284942934135" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -95,15 +95,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
