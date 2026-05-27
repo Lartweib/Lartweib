@@ -3,8 +3,6 @@
 **Software Engineer · Arquitectura & Sistemas Distribuidos · IA aplicada**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-daniel-ara)
-[![IA Radar](https://img.shields.io/badge/iaradar.info-6366f1?style=for-the-badge&logo=rss&logoColor=white)](https://iaradar.info)
-[![Umbral](https://img.shields.io/badge/umbral.run-111827?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.umbral.run)
 
 ---
 
@@ -16,16 +14,23 @@ Mi foco es definir la arquitectura, tomar decisiones de diseño y llevar los sis
 
 ## Proyectos
 
-### [IA Radar](https://iaradar.info)
+### IA Radar | [iaradar.info](https://iaradar.info)
+
 Radar editorial de señales de IA para developers y builders. Sin ruido, sin newsletter. Solo qué cambió y si te afecta.
 
-### [Umbral](https://www.umbral.run)
+### Umbral | [umbral.run](https://www.umbral.run)
+
 Thriller psicológico-tech publicado en Amazon KDP.
 
 ---
 
-Python · FastAPI · PostgreSQL · MongoDB · Docker · GitHub Actions
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
-*A Coruña, España*
